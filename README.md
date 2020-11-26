@@ -1,2 +1,2 @@
 # CFBNTest
-THis is my edit to the readme file
+This is my edit to the Readme file
