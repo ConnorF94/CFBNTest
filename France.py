@@ -1,5 +1,5 @@
 #First change/addition to .py file
-Print "Welcome to Connor's GitHub Python File."
+Pri nt "Welcome to Connor's GitHub Python File."
 # Input taxable income
 print ("What is your taxable income?")
 incomeString = input()
